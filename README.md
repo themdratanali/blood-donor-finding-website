@@ -57,9 +57,4 @@
 
 <h2>Contact</h2>
 <p>For any inquiries, please contact <a href="mailto:themdratanali@gmail.com">themdratanali@gmail.com</a>.</p>
-<hr>
 <p><strong>Project Developed by:</strong> <a href="https://mdratanali.com/"> Md. Ratan Ali </a></p>
-
-<hr>
-<p><strong>Project Developed by:</strong> Md. Ratan Ali</p>
-        
