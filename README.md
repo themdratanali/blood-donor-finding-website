@@ -48,6 +48,3 @@
     <li><strong>Search Donors:</strong> Select your division, district, and blood group to find donors.</li>
     <li><strong>Admin Login:</strong> Access the admin dashboard to manage records (Default credentials: admin/Password).</li>
 </ul>
-<h2>Contact</h2>
-<p>For any inquiries, please contact <a href="mailto:themdratanali@gmail.com">themdratanali@gmail.com</a>.</p>
-<p>Project Developed by:<a href="https://mdratanali.com/"> Md. Ratan Ali </a></p>
